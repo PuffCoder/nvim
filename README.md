@@ -1,3 +1,5 @@
+# Location: ```/usr/share/vim/vimrc```
+
 # 💤 LazyVim
 
 A starter template for [LazyVim](https://github.com/LazyVim/LazyVim).
